@@ -67,3 +67,7 @@ header{
     width: 56px;
     height: 56px;
 }
+hr{
+    margin: 30px 0;
+    color: gray;
+}
